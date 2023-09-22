@@ -5,3 +5,9 @@ Calculator
 3. The program must not take any other kind of input besides integers
 
 submit thru this link : https://forms.gle/hEXXbzxmUFK8CQ5C9
+
+# Week 02 - Assignment 1
+Prime Number checker
+1. Program takes an input of a single integer
+2. The program will print out 'not prime' if that integer is not
+a prime number and 'prime' otherwise'
