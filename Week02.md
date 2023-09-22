@@ -11,3 +11,4 @@ Prime Number checker
 1. Program takes an input of a single integer
 2. The program will print out 'not prime' if that integer is not
 a prime number and 'prime' otherwise'
+https://forms.gle/vEDgohVSztEWpNLh9
