@@ -16,10 +16,12 @@ example:
 Solution 1:
 
     # Taking user input and initializing an empty list that will be used to form the new string
+    
     camelcase = input("String: ")
     snakecase = []
 
     # Loop thru each character in the string, while looking for an uppercase letter, when it finds one add "_" + the letter that was found. Other than that add the character itself to the list
+    
     for i in camelcase:
         if i.isupper():
             snakecase.append('_'+i)
@@ -27,9 +29,11 @@ Solution 1:
             snakecase.append(i)
 
     # Transform the list into a string
+    
     final = ''.join(snakecase)
 
     # Print out the string, and lowercase the string
+    
     print(final.lower())
 
 
@@ -52,16 +56,19 @@ example:
 Solution 2:
 
     # Keep prompting the user for input until a valid answer is given and cast it into a float
+    
     while True:
         change = float(input("Change owed: "))
         if change > 0:
             break
 
     # Multiply the input by 100 to make it easier when performing the operations
+    
     coins = change * 100
     count = 0
 
     # While the original change owed is not 0, subtract it with 25 if it's bigger or equal to 25, and goes the same for 10, 5, and 1 cents. With every subtraction add 1 coin count to the variable 'count'
+    
     while coins > 0:
         if coins >= 25:
             coins -= 25
@@ -77,6 +84,7 @@ Solution 2:
             count += 1
 
     # Print out how many coins that was counted thru each subtraction
+    
     print(count)
 
 
