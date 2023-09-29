@@ -46,7 +46,7 @@ example:
     change owed: 0.41
     output: 4
         (41 - 25 = 16 , 16 - 10 = 6, 6 - 5 = 1, 1 - 1 = 0)
-            1 coin    +   1 coin  +   1 coin  +   1 coin    = 4 coins
+            1 coin    +   1 coin  +   1 coin  +   1 coin    =     4 coins
         
     change owed: 1.60
     output: 7
