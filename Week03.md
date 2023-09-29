@@ -1,6 +1,6 @@
-##Exercise 1:
+Exercise 1:
 
-###Make a program that turns a string from this "snakeCase" to this "snake_case"
+Make a program that turns a string from this "snakeCase" to this "snake_case"
 
 example:
     String: testCaseLetter
@@ -12,7 +12,7 @@ example:
     String: test
     output: test
     
-##Solution 1:
+Solution 1:
 
 camelcase = input("String: ")
 snakecase = []
@@ -28,9 +28,9 @@ final = ''.join(snakecase)
 print(final.lower())
 
 
-##Exercise 2
+Exercise 2
 
-###The program takes input some amount of change (in dollars) & the program will subtract by the biggest posssible amount (¢1, ¢5, ¢10, ¢25) until there is 0 change left and return how many coins needed to reach 0.
+The program takes input some amount of change (in dollars) & the program will subtract by the biggest posssible amount (¢1, ¢5, ¢10, ¢25) until there is 0 change left and return how many coins needed to reach 0.
 
 example:
     change owed: 0.41
@@ -43,7 +43,7 @@ example:
     change owed: 4.2
     output: 18
 
-##Solution 2:
+Solution 2:
 
 while True:
     change = float(input("Change owed: "))
@@ -70,9 +70,9 @@ while coins > 0:
 print(count)
 
 
-##Exercise 3:
+Exercise 3:
 
-###Create a program that detects wether a string is eligible to be a vanity plate or not. 
+Create a program that detects wether a string is eligible to be a vanity plate or not. 
 Vanity plates must start with at least two characters, maximum of 6 characters (letter and number), and a minimum of 2 characters. There can't be a number inbetween letters. The numbers must be at the end. For example, AAA222 would be an acceptable vanity plate. AAA22A would not be acceptable. The first number used cannot be a '0' and the string must only consist of letters and numbers.
 
 example:
