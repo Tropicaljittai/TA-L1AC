@@ -3,6 +3,7 @@ Exercise 1:
 Make a program that turns a string from this "snakeCase" to this "snake_case"
 
 example:
+
     String: testCaseLetter
     output: test_case_letter
         
@@ -33,6 +34,7 @@ Exercise 2
 The program takes input some amount of change (in dollars) & the program will subtract by the biggest posssible amount (¢1, ¢5, ¢10, ¢25) until there is 0 change left and return how many coins needed to reach 0.
 
 example:
+
     change owed: 0.41
     output: 4
         (41 - 25 = 16 , 16 - 10 = 6, 6 - 5 = 1, 1 - 1 = 0)
