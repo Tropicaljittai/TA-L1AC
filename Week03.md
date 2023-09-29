@@ -105,7 +105,7 @@ Variation 1:
 
 Using loops, create a program that prints out a pattern of half a pyramid as seen below:
 The program must take only integers as an input and that integer must be in the range of 1 until 8, other than that keep prompting the user for another input.
-For variation 1 submit thru here:
+Submit thru here: https://forms.gle/KXQcuMmnWEtgFya9A
 
     Height: 8
     
@@ -122,7 +122,7 @@ Variation 2:
 
 Using loops, create a program that prints out a pattern of a full pyramid as seen below:
 The program must take only integers as an input and that integer must be in the range of 1 until 8, other than that keep prompting the user for another input.
-For variation 2 submit thru here:
+Submit thru here: https://forms.gle/KXQcuMmnWEtgFya9A
 
     Height: 8
    
@@ -134,11 +134,3 @@ For variation 2 submit thru here:
       ######  ######
      #######  #######
     ########  ########
-
-        
-        
-        
-        
-        
-        
-        
