@@ -75,10 +75,15 @@ Solution 2:
 Exercise 3:
 
 Create a program that detects wether a string is eligible to be a vanity plate or not. 
+
 Vanity plates must start with at least two characters, maximum of 6 characters (letter and number), and a minimum of 2 characters. 
+
 There can't be a number inbetween letters. 
+
 The numbers must be at the end. 
+
 For example, AAA222 would be an acceptable vanity plate. AAA22A would not be acceptable. 
+
 The first number used cannot be a '0' and the string must only consist of letters and numbers.
 
 example:
