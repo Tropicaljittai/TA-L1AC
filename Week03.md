@@ -14,18 +14,18 @@ example:
     
 Solution 1:
 
-camelcase = input("String: ")
-snakecase = []
-
-for i in camelcase:
-    if i.isupper():
-        snakecase.append('_'+i.lower())
-    else:
-        snakecase.append(i)
-
-final = ''.join(snakecase)
-
-print(final.lower())
+    camelcase = input("String: ")
+    snakecase = []
+    
+    for i in camelcase:
+        if i.isupper():
+            snakecase.append('_'+i.lower())
+        else:
+            snakecase.append(i)
+    
+    final = ''.join(snakecase)
+    
+    print(final.lower())
 
 
 Exercise 2
@@ -45,29 +45,29 @@ example:
 
 Solution 2:
 
-while True:
-    change = float(input("Change owed: "))
-    if change > 0:
-        break
-
-coins = change * 100
-count = 0
-
-while coins > 0:
-    if coins >= 25:
-        coins -= 25
-        count += 1
-    elif coins >= 10:
-        coins -= 10
-        count += 1
-    elif coins >= 5:
-        coins -= 5
-        count += 1
-    else:
-        coins -= 1
-        count += 1
-
-print(count)
+    while True:
+        change = float(input("Change owed: "))
+        if change > 0:
+            break
+    
+    coins = change * 100
+    count = 0
+    
+    while coins > 0:
+        if coins >= 25:
+            coins -= 25
+            count += 1
+        elif coins >= 10:
+            coins -= 10
+            count += 1
+        elif coins >= 5:
+            coins -= 5
+            count += 1
+        else:
+            coins -= 1
+            count += 1
+    
+    print(count)
 
 
 Exercise 3:
