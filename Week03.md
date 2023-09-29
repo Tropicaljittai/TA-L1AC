@@ -86,6 +86,8 @@ For example, AAA222 would be an acceptable vanity plate. AAA22A would not be acc
 
 The first number used cannot be a '0' and the string must only consist of letters and numbers.
 
+Submit here: https://forms.gle/Sq38fPWHrLWAQn6f9
+
 example:
 
     Plate : TA11
@@ -96,6 +98,43 @@ example:
     
     Plate: TA1A
     output: invalid
+
+OPTIONAL ASSIGNMENT (pick 1 out of these 2):
+
+Variation 1:
+
+Using loops, create a program that prints out a pattern of half a pyramid as seen below:
+The program must take only integers as an input and that integer must be in the range of 1 until 8, other than that keep prompting the user for another input.
+For variation 1 submit thru here:
+
+    Height: 8
+    
+           #
+          ##
+         ###
+        ####
+       #####
+      ######
+     #######
+    ######## 
+
+Variation 2:
+
+Using loops, create a program that prints out a pattern of a full pyramid as seen below:
+The program must take only integers as an input and that integer must be in the range of 1 until 8, other than that keep prompting the user for another input.
+For variation 2 submit thru here:
+
+    Height: 8
+   
+           #  #
+          ##  ##
+         ###  ###
+        ####  ####
+       #####  #####
+      ######  ######
+     #######  #######
+    ########  ########
+
         
         
         
