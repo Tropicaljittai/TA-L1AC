@@ -68,7 +68,8 @@ Solution 2:
     coins = change * 100
     count = 0
 
-    # While the original change owed is not 0, subtract it with 25 if it's bigger or equal to 25, and goes the same for 10, 5, and 1 cents. With every subtraction add 1 coin count to the variable 'count'
+    # While the original change owed is not 0, subtract it with 25 if it's bigger or equal to 25, and goes the same for 10, 
+    5, and 1 cents. With every subtraction add 1 coin count to the variable 'count'
     
     while coins > 0:
         if coins >= 25:
