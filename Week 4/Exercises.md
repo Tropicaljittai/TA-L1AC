@@ -1,4 +1,4 @@
-Exercise 1:
+# Exercise 1:
 
 Write a program that reads the three edges of a triangle 
 and computes the perimeter if the input is valid. 
@@ -43,7 +43,7 @@ Code:
     (TODO)
 
 
-Exercise 2:
+# Exercise 2:
 
 Create a bill split program and a tip calculator, taking 3 user inputs, the bill amount (in dollars), the % of the bill for the tip that's going to be given, and
 the amount of people. the program should output the total amount per person should pay, and the tip amount per person
@@ -89,7 +89,7 @@ Code:
     (TODO)
 
 
-Exercise 3:
+# Exercise 3:
 
 Create a program that translate a certain amount of seconds and format it to world time format (0:0:0). The program will take an integer as input
 that represents the amount of seconds and will be converted to the world time format.
@@ -117,7 +117,7 @@ Code:
     (TODO)
 
 
-Exercise 4:
+# Exercise 4:
 
 Given a list as below, concatenate each element of the list with its corresponding element from the other list.
 
