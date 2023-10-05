@@ -1,4 +1,4 @@
-Exercise 1:
+# Exercise 1:
 
 Write a program that reads the three edges of a triangle 
 and computes the perimeter if the input is valid. 
@@ -10,7 +10,7 @@ the perimeter cannot be calculated.
 validation.)
 
 
-Example 1:
+Case 1:
 
     Enter value for AB: 3
     Enter value for BC: 3
@@ -18,7 +18,7 @@ Example 1:
 
     output : Valid and the perimeter is 9
 
-Example 2:
+Case 2:
 
     Enter value for AB: 10
     Enter value for BC: 15
@@ -26,7 +26,7 @@ Example 2:
 
     output : Valid and the perimeter is 31
 
-Example 3:
+Case 3:
 
     Enter value for AB: 10
     Enter value for BC: 4
@@ -43,13 +43,13 @@ Code:
     (TODO)
 
 
-Exercise 2:
+# Exercise 2:
 
 Create a bill split program and a tip calculator, taking 3 user inputs, the bill amount (in dollars), the % of the bill for the tip that's going to be given, and
 the amount of people. the program should output the total amount per person should pay, and the tip amount per person
 
 
-Example 1:
+Case 1:
 
     Enter amount of bill: 100
     Enter number of people: 5
@@ -62,7 +62,7 @@ Example 1:
     Tip total = 10% x 100 = 10; 10/5 = 2
     Per person total = 20+2 = 22
 
-Example 2:
+Case 2:
 
     Enter amount of bill: 503
     Enter number of people: 3
@@ -71,7 +71,7 @@ Example 2:
     Tip amount per person $8.38
     Total amount per person $176.05
 
-Example 3:
+Case 3:
 
     Enter amount of bill: 77
     Enter number of people: 10
@@ -89,23 +89,23 @@ Code:
     (TODO)
 
 
-Exercise 3:
+# Exercise 3:
 
 Create a program that translate a certain amount of seconds and format it to world time format (0:0:0). The program will take an integer as input
 that represents the amount of seconds and will be converted to the world time format.
 
 
-Example 1:
+Case 1:
 
     Enter the number of seconds: 3600
     Results: 1:0:0
 
-Example 2:
+Case 2:
 
     Enter the number of seconds: 12345
     Results: 3:25:45
 
-Example 3:
+Case 3:
 
     Enter the number of seconds: 777
     Results: 0:12:57
@@ -117,7 +117,7 @@ Code:
     (TODO)
 
 
-Exercise 4:
+# Exercise 4:
 
 Given a list as below, concatenate each element of the list with its corresponding element from the other list.
 
