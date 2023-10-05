@@ -1,0 +1,10 @@
+x = int(input("Enter value for AB: "))
+y = int(input("Enter value for BC: "))
+z = int(input("Enter value for AC: "))
+
+perimeter = x+y+z
+
+if x+y>z and x+z>y and y+z>x:
+    print(f"Valid and the perimeter is {perimeter}")
+else:
+    print("Invalid")
