@@ -125,8 +125,38 @@ Code:
 
     list1 = ["M", "na", "i", "Ke"]
     list2 = ["y", "me", "s", "lly"]
-
-    output: ['My', 'name', 'is', 'Kelly']
     (TODO)
 
+    output: ['My', 'name', 'is', 'Kelly']
 
+
+# Exercise 5:
+
+Given a list as below, concatenate each element of the list with its corresponding opposite element from the other list.
+
+Code:
+
+    list1 = [10,20,30,40]
+    list2 = [100,200,300,400]
+    (TODO)
+
+    output: 
+
+    10 400
+    20 300
+    30 200
+    40 100
+
+# Exercise 6:
+
+Given a list as below, concatenate each element of the list with all of the other list's elements
+
+Code:
+
+    list1 = ["Hello", "take"]
+    list2 = ["Dear", "Sir"]
+    (TODO)
+
+    output: 
+
+    ['Hello Dear', 'Hello Sir', 'take Dear', 'take Sir']
