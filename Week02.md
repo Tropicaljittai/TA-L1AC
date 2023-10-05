@@ -6,7 +6,7 @@ Calculator
 
 submit thru this link : https://forms.gle/hEXXbzxmUFK8CQ5C9
 
-# Week 02 - Assignment 1
+# Week 02 - Assignment 2
 Prime Number checker
 1. Program takes an input of a single integer
 2. The program will print out 'not prime' if that integer is not
