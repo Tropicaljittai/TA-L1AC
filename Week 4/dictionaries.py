@@ -7,6 +7,6 @@ Person1 = {
 
 Person2 = {
     "Name": "Matthew Staniswinata",
-    "NIM": "2702325962",
+    "NIM": 2702325962,
     "Class": "L1AC"
 }
