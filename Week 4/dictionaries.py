@@ -49,6 +49,11 @@ Person8 = {
 }
 
 Person9 = {
+    "Name": "Ella Raputri",
+    "NIM": 2702298154,
+    "Class": "L1AC"
+}
+Person10 = {
     "Name": "Cindy Reginia Wang",
     "NIM": 2702334815,
     "Class": "L1AC"
