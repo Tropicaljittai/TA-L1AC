@@ -69,3 +69,10 @@ Person12 = {
     "Name": "Cindy Reginia Wang",
     "NIM": 2702334815,
     "Class": "L1AC"
+}
+
+Person13 = {
+    "Name": "Steven gerald marlent",
+    "NIM": 2702398283,
+    "Class": "L1AC"
+}
