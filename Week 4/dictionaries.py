@@ -23,6 +23,7 @@ Person4 = {
     "NIM": 2702323540,
     "Class": "L1AC"
 }
+
 Person5 = {
     "Name": "Ellis Raputri",
     "NIM": 2702298116,
@@ -30,6 +31,12 @@ Person5 = {
 }
 
 Person6 = {
+    "Name": "Adrian Nugroho Basuki",
+    "NIM": 2702298210,
+    "Class": "L1AC"
+}
+
+Person7 = {
     "Name": "Ella Raputri",
     "NIM": 2702298154,
     "Class": "L1AC"
