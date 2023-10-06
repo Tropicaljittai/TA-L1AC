@@ -89,14 +89,25 @@ Person15 = {
     "Class": "L1AC"
 }
 
+
+Person15 = {
+=======
 Person16 = {
+>>>>>>> 027866beec4cd51a36f1441b33fdefc9f2009b52
     "Name": "Steven gerald marlent",
     "NIM": 2702398283,
     "Class": "L1AC"
 }
 
+
 Person17 = {
     "Name": "Louisa Mandy Halim",
     "NIM": 2702325552,
+    "Class": "L1AC"
+}
+
+Person18 = {
+    "Name": "Daniellim",
+    "NIM": 2702235286,
     "Class": "L1AC"
 }
