@@ -120,6 +120,7 @@ Code:
 # Exercise 4:
 
 Given a list as below, concatenate each element of the list with its corresponding element from the other list.
+DON'T USE ZIP
 
 Code:
 
@@ -133,6 +134,7 @@ Code:
 # Exercise 5:
 
 Given a list as below, concatenate each element of the list with its corresponding opposite element from the other list.
+DON'T USE ZIP
 
 Code:
 
@@ -150,6 +152,7 @@ Code:
 # Exercise 6:
 
 Given a list as below, concatenate each element of the list with all of the other list's elements
+DON'T USE ZIP
 
 Code:
 
