@@ -53,8 +53,19 @@ Person9 = {
     "NIM": 2702298154,
     "Class": "L1AC"
 }
+
 Person10 = {
+    "Name" : "Chris Satria Hung",
+    "NIM" : 2702337142,
+    "Class" : "L1AC"
+}
+Person11 = {
+    "Name" : "Justin Hadinata",
+    "NIM" : 2702298236,
+    "Class" : "L1AC"
+}
+
+Person12 = {
     "Name": "Cindy Reginia Wang",
     "NIM": 2702334815,
     "Class": "L1AC"
-}
