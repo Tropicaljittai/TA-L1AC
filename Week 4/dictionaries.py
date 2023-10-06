@@ -13,6 +13,12 @@ Person2 = {
 
 
 Person3 = {
+    "Name": "Jonathan Leewin",
+    "NIM": 2702319455,
+    "Class": "L1AC"
+}
+
+Person4 = {
     "Name": "Farrell Sevillen Arya",
     "NIM": 2702323540,
     "Class": "L1AC"
