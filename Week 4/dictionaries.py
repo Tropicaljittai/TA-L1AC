@@ -90,10 +90,8 @@ Person15 = {
 }
 
 
-Person15 = {
-=======
+
 Person16 = {
->>>>>>> 027866beec4cd51a36f1441b33fdefc9f2009b52
     "Name": "Steven gerald marlent",
     "NIM": 2702398283,
     "Class": "L1AC"
@@ -112,7 +110,7 @@ Person18 = {
     "Class": "L1AC"
 }
 
-Person18 = {
+Person19 = {
     "Name": "Raisya Jasmine Zahira",
     "NIM": 2702364761,
     "Class": "L1AC"
