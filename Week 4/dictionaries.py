@@ -98,9 +98,15 @@ Person16 = {
     "NIM": 2702398283,
     "Class": "L1AC"
 }
->>>>>>> f1d93cc9b2fb08a980e021826fdb991a1a9b4d57
+
 
 Person17 = {
+    "Name": "Louisa Mandy Halim",
+    "NIM": 2702325552,
+    "Class": "L1AC"
+}
+
+Person18 = {
     "Name": "Daniellim",
     "NIM": 2702235286,
     "Class": "L1AC"
