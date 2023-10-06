@@ -23,8 +23,14 @@ Person4 = {
     "NIM": 2702323540,
     "Class": "L1AC"
 }
-person5 = {
+Person5 = {
     "Name": "Ellis Raputri",
     "NIM": 2702298116,
+    "Class": "L1AC"
+}
+
+Person6 = {
+    "Name": "Ella Raputri",
+    "NIM": 2702298154,
     "Class": "L1AC"
 }
