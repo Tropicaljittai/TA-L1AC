@@ -59,3 +59,8 @@ Person10 = {
     "NIM" : 2702337142,
     "Class" : "L1AC"
 }
+Person11 = {
+    "Name" : "Justin Hadinata",
+    "NIM" : 2702298236,
+    "Class" : "L1AC"
+}
