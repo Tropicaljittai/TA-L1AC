@@ -37,6 +37,18 @@ Person6 = {
 }
 
 Person7 = {
+    "Name": "Marsya Putra",
+    "NIM": 2702367220,
+    "Class": "L1AC"   
+}
+
+Person8 = {
+    "Name": "Ryan Patrick Komala",
+    "NIM": 2702334853,
+    "Class": "L1AC"
+}
+
+Person9 = {
     "Name": "Ella Raputri",
     "NIM": 2702298154,
     "Class": "L1AC"
