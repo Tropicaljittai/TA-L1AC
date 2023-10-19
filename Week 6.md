@@ -19,7 +19,7 @@ Write a function that takes in a donor's and receiver's blood types as strings a
 according to the rules above
 
 ## Examples
-canGiveBlood("0+", "A+") -+ true
+canGiveBlood("0+", "A+") -> true
 
 canGiveBlood("A-", "B-") -> false
 
