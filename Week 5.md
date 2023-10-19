@@ -17,6 +17,7 @@ A person with none of the above factors (0-) can give blood to anyone.
 
 Write a function that takes in a donor's and receiver's blood types as strings and returns whether or not the donor can safely give blood to the receiver, 
 according to the rules above
+
 ## Examples
 canGiveBlood("0+", "A+") -+ true
 
@@ -27,5 +28,5 @@ canGiveBlood("A-", "AB+") -> true
 **Notes**
 
 All letters are capital.
-Each blood type will be one of the following strings:
-"0+"" "O-" "A+" "A-", "B+" "B-" "AB+" "AB-"
+
+Each blood type will be one of the following strings: "0+"" "O-" "A+" "A-", "B+" "B-" "AB+" "AB-"
