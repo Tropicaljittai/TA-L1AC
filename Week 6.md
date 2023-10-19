@@ -3,7 +3,7 @@ When a person receives a blood transfusion, it is essential to make sure that th
 compatible with the receiver's blood type. Receiving a blood type that is not compatible with your own can be life-threating, so blood banks always make sure
 to note the type of blood they receive from donors so that they can ensure a safe transfusion Blood types are named according to three factors presence of antigen A, presence of antigen B, and
 presence of Rh factor. If antigen A is found, the blood type includes the letter "A". If antigen B is found, the blood type includes the letter "B". And if the Rh factor
-is present, the blood type ends with "+"; otherwise, it ends with "-". If neither antigen A nor antigen B are found, the blood type includes the letter 0" For example, a person with only antigen A would have
+is present, the blood type ends with "+"; otherwise, it ends with "-". If neither antigen A nor antigen B are found, the blood type includes the letter "0" For example, a person with only antigen A would have
 the blood type "A-". A person with both antigens A and B and the Rh factor would have blood type "AB+ and a person wih only the Rh factor would have blood type "0+"
 
 ## The rules for giving and receiving blood are as follows:
