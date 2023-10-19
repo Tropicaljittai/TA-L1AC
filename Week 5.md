@@ -25,6 +25,7 @@ canGiveBlood("A-", "B-") -> false
 canGiveBlood("A-", "AB+") -> true
 
 **Notes**
+
 All letters are capital.
 Each blood type will be one of the following strings:
 "0+"" "O-" "A+" "A-", "B+" "B-" "AB+" "AB-"
