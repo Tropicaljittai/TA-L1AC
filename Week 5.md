@@ -8,9 +8,13 @@ the blood type "A-". A person with both antigens A and B and the Rh factor would
 
 ## The rules for giving and receiving blood are as follows:
 A person with antigen A may only give blood to another person with antigen A.
+
 A person with antigen B may only give blood to another person with antigen B.
+
 A person with the Rh factor may only give blood to another person with the Rh factor.
+
 A person with none of the above factors (0-) can give blood to anyone.
+
 Write a function that takes in a donor's and receiver's blood types as strings and returns whether or not the donor can safely give blood to the receiver, 
 according to the rules above
 ## Examples
