@@ -32,7 +32,6 @@ All letters are capital.
 Each blood type will be one of the following strings: "O+", "O-", "A+", "A-", "B+", "B-", "AB+", "AB-"
 
 ## Problem 2:
-Problems:
 In Digital Decipher, decoding is done by the
 simple subtraction of numbers in the key and the
 corresponding characters on a given array. You
@@ -64,7 +63,7 @@ digits:
 
 20 12 18 30 21
 
--1 9 3 9 1
+-1  9  3  9  1
 
 ______________ -
 
@@ -87,7 +86,7 @@ digitalDecipher(eMessage, key) - "masterpiece
 
 14 10 22 29 6 27 19 18 6 12 8
 
--1 9 3 9 1 9 3 9 1 9 3
+-1  9  3  9  1  9  3  9  1  9  3
 
 ________________________________ -
 
