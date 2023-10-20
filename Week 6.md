@@ -55,7 +55,7 @@ encipherment. One version of the cipher rules are
 outlined below:
 
 eMessage = [20, 12, 18, 30, 21]
-key = 1939
+, key = 1939
 
 digitalDecipher(eMessage, key) > "scout"
 
