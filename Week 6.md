@@ -46,6 +46,7 @@ Assign a unique number to each letter of the
 alphabet.
 
 abcdefghijklmnopqrstuvwxyz
+
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
 22 23 24 25 26
 
@@ -64,6 +65,7 @@ digits:
 20 12 18 30 21
 
 -1 9 3 9 1
+
 ______________ -
 
 19 3 15 21 20
@@ -76,16 +78,28 @@ s c o u t
 19 3 15 21 20
 
 See the below example for a better understanding:
+
 eMessage = [14, 10, 22, 29, 6, 27, 19, 18, 6, 12, 8]
+
 key = 1939
+
 digitalDecipher(eMessage, key) - "masterpiece
+
 14 10 22 29 6 27 19 18 6 12 8
+
 -1 9 3 9 1 9 3 9 1 9 3
+
 ________________________________ -
+
 13 1 19 20 5 18 16 9 5 3 5
+
 m a s t e r p i e c e
+
 Examples
+
 digitalDecipher([20, 12, 18, 30, 21], 1939) -> "scout"
+
 digitalDecipher([14, 30, 11, 1, 20, 17, 18, 18], 1990)-4
 "mubashir"
+
 digitalDecipher([6, 4, 1, 3, 9, 20], 100) -> "edabit"
