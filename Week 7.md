@@ -1,4 +1,4 @@
-##Problem:
+## Problem:
 
 Design and implement a program, readability, that computes the Coleman-Liau index of text.
 
