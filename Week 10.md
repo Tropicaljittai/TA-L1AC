@@ -16,6 +16,7 @@ Example 1:
 
 `Both words can be linked with the subword 'cy'.`
 
+
 Example 2:
 
 `Length of the first word: 7`
@@ -42,16 +43,20 @@ Example 1:
 
 `The smallest beautiful number divisible by 7 is 7.`
 
+
 Example 2: 
 
 `Input x: 13` 
 
 `The smallest beautiful number divisible by 13 is 111111.`
 
+
 Example 3: 
 
 `Input x: 259` 
 
 `The smallest beautiful number divisible by 259 is 777.`
+
+------
 
 ### Submit to Link form: https://forms.gle/XUBeq4s4wnj9rLDMA
