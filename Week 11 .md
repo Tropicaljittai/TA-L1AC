@@ -9,3 +9,6 @@ Create a program that simulates a university course registration system. Conside
 3. Registration Process: Implement methods to enroll students in courses, check available slots, display course details, display student information, etc.
 4. Data Handling: Use file handling to read/write course information and student data. Courses and student data should be stored in separate files.
 5. Validation: Ensure that the system prevents enrolling a student in a course that has reached its maximum capacity.
+6. Driver file/main file: Test that your classes, methods, and data handling work successfully.
+
+Extra things you can do: visualize the number of students in each course, GUI for the system, and many more. 
